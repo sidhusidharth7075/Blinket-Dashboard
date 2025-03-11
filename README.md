@@ -110,6 +110,6 @@ If you have any feedback or suggestions, feel free to open an issue or submit a 
 ---
 
 **Author:** [Lohith Sappa]\
-**LinkedIn:** [LohithSappa](https://www.linkedin.com/in/lohith-sappa-aab07629a/)
+**LinkedIn:** [LohithSappa](https://www.linkedin.com/in/lohith-sappa-aab07629a/)\
 **Contact:** [sidhusidharth7075@gmail.com](mailto:sidhusidharth7075@gmail.com)
 
